@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Youtube Subscriptions Filter",
+  "name": "YouTube Subscriptions Filter",
   "short_name": "YT Subs Filter",
   "version": "1.0",
   "description": "Filter your subscriptions in YouTube sidebar.",
@@ -13,7 +13,7 @@
   "page_action": {
     "default_icon": "icon16.png",
     "default_popup": "popup.html",
-    "default_title": "Subscriptions filter for Youtube"
+    "default_title": "Subscriptions filter for YouTube"
   },
 
   "content_scripts": [
