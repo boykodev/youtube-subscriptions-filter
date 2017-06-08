@@ -1,6 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Youtube subscriptions filter",
+  "name": "Youtube Subscriptions Filter",
+  "short_name": "YT Subs Filter",
   "version": "1.0",
   "description": "Filter your subscriptions in YouTube sidebar.",
   "icons": {
